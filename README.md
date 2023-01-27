@@ -1,2 +1,2 @@
 # cryptography
-Some personal exircise on cryptography
+Some personal exercise on cryptography
